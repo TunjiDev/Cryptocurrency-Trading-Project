@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('cryptobackgroundimage3.jpg');
+    background-size: cover;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+    height: 90vh;
+}
+.fa-bitcoin {
+    color: #ef831a;
+    font-size: 30px;
+}
+.fa-ethereum {
+    color: #5f658b;
+    font-size: 30px;
+}
+.welcomeDiv {
+    color: white;
+}
+.linkDiv {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.goto {
+    background-color: white;
+    margin: 20px auto;
+    border-radius: 20px;
+    width: 40%;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+.goto:hover {
+    cursor: pointer;
+}

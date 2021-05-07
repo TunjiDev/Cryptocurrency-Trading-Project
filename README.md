@@ -1,0 +1,1 @@
+This is a simple non-functional Cryptocurrency Trading App built using vanilla Js only.
